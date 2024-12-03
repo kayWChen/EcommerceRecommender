@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35b0b057-2207-4563-96ec-d9c90a355036" name="Default Changelist" comment="" />
+    <list default="true" id="35b0b057-2207-4563-96ec-d9c90a355036" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommender/ContentRecommender/ContentRecommender.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommender/ContentRecommender/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommender/ContentRecommender/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommender/ContentRecommender/src/main/scala/com/kay/ItemCF/ContentRecommender.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommender/ItemCFRecommender/ItemCFRecommender.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommender/ItemCFRecommender/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommender/ItemCFRecommender/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommender/ItemCFRecommender/src/main/scala/com/kay/ItemCF/ItemCFRecommender.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommender/ItemCFRecommender/target/classes/com/kay/Content/ContentRecommender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommender/ItemCFRecommender/target/classes/com/kay/Content/MongoConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommender/ItemCFRecommender/target/classes/com/kay/Content/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommender/ItemCFRecommender/target/classes/com/kay/Content/ProductRecs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommender/ItemCFRecommender/target/classes/com/kay/Content/Recommendation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommender/ItemCFRecommender/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommender/DataLoader/target/classes/com/kay/recommender/DataLoader$.class" beforeDir="false" afterPath="$PROJECT_DIR$/recommender/DataLoader/target/classes/com/kay/recommender/DataLoader$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommender/OfflineRecommender/target/classes/com/kay/Offline/ModelEvaluator$$anonfun$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/recommender/OfflineRecommender/target/classes/com/kay/Offline/ModelEvaluator$$anonfun$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommender/OfflineRecommender/target/classes/com/kay/Offline/ModelEvaluator$$anonfun$adjustALSParams$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/recommender/OfflineRecommender/target/classes/com/kay/Offline/ModelEvaluator$$anonfun$adjustALSParams$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommender/OfflineRecommender/target/classes/com/kay/Offline/ModelEvaluator$$typecreator1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/recommender/OfflineRecommender/target/classes/com/kay/Offline/ModelEvaluator$$typecreator1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommender/OfflineRecommender/target/classes/com/kay/Offline/ModelEvaluator$.class" beforeDir="false" afterPath="$PROJECT_DIR$/recommender/OfflineRecommender/target/classes/com/kay/Offline/ModelEvaluator$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommender/OfflineRecommender/target/classes/com/kay/Offline/OfflineRecommender$.class" beforeDir="false" afterPath="$PROJECT_DIR$/recommender/OfflineRecommender/target/classes/com/kay/Offline/OfflineRecommender$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommender/OnlineRecommender/target/classes/com/kay/Online/CompilerHelper$.class" beforeDir="false" afterPath="$PROJECT_DIR$/recommender/OnlineRecommender/target/classes/com/kay/Online/CompilerHelper$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommender/OnlineRecommender/target/classes/com/kay/Online/OnlineRecommender$.class" beforeDir="false" afterPath="$PROJECT_DIR$/recommender/OnlineRecommender/target/classes/com/kay/Online/OnlineRecommender$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommender/StatisticsRecommender/target/classes/com/kay/statistics/StatisticsRecommender$.class" beforeDir="false" afterPath="$PROJECT_DIR$/recommender/StatisticsRecommender/target/classes/com/kay/statistics/StatisticsRecommender$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommender/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recommender/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +61,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -49,10 +81,15 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="2pUfkcLdFhGeb8EVdQAKEPBgVWx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/recommender/KafkaStreaming/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/recommender" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.19309463" />
@@ -66,10 +103,11 @@
       <recent name="com.kay.kafkastreaming.LogProcessor" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyProjects-java\EcommerceRecommender\recommender" />
+      <recent name="D:\MyProjects-java\EcommerceRecommender\recommender\ContentRecommender\src\main\resources" />
       <recent name="D:\MyProjects-java\EcommerceRecommender\recommender\KafkaStreaming\src\main\resources" />
       <recent name="D:\MyProjects-java\EcommerceRecommender\recommender\OfflineRecommender\src\main\resources" />
       <recent name="D:\MyProjects-java\EcommerceRecommender\recommender\OnlineRecommender\src\main\resources" />
-      <recent name="D:\MyProjects-java\EcommerceRecommender\recommender\StatisticsRecommender\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -84,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="Application.ItemCFRecommender">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.business.Application" />
       <module name="businessServer" />
@@ -98,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ModelEvaluator" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.kay.Offline.ModelEvaluator" />
-      <module name="OfflineRecommender" />
+    <configuration name="ContentRecommender" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.kay.ItemCF.ContentRecommender" />
+      <module name="ContentRecommender" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kay.Offline.*" />
+          <option name="PATTERN" value="com.kay.ItemCF.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,8 +149,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OfflineRecommender" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.kay.Offline.OfflineRecommender" />
+    <configuration name="ItemCFRecommender" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.kay.ItemCF.ItemCFRecommender" />
+      <module name="ItemCFRecommender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kay.ItemCF.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModelEvaluator" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.kay.Offline.ModelEvaluator" />
       <module name="OfflineRecommender" />
       <extension name="coverage">
         <pattern>
@@ -137,26 +188,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StatisticsRecommender" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.kay.statistics.StatisticsRecommender" />
-      <module name="StatisticsRecommender" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kay.statistics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ItemCFRecommender" />
+        <item itemvalue="Application.ContentRecommender" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.OnlineRecommender" />
         <item itemvalue="Application.ModelEvaluator" />
-        <item itemvalue="Application.OfflineRecommender" />
-        <item itemvalue="Application.StatisticsRecommender" />
       </list>
     </recent_temporary>
   </component>
@@ -171,11 +209,25 @@
       <option name="presentableId" value="Default" />
       <updated>1732825719021</updated>
       <workItem from="1732825722613" duration="18142000" />
-      <workItem from="1732908326243" duration="36088000" />
+      <workItem from="1732908326243" duration="45021000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
